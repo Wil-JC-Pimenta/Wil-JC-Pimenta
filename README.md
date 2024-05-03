@@ -1,11 +1,11 @@
 # Olá, eu sou o WILKER
 
 
-📚 Sou estudante do curso de Análise e Desenvolvimento de Sistemas e também Técnico em Mecatrônica.
+📚 Sou estudante do curso de Análise e Desenvolvimento de Sistemas.
 
 💡 Sempre gostei de estudar temas relacionados a tecnologia, desenvolvimento e controle de sistemas.
 
-🌐 Atualmente estou me especializando no desenvolvimento web com linguagem PHP/MySQL e JavaScript.
+🌐 Atualmente estou me especializando no desenvolvimento de software back end.
 
 👨‍💻 Estou sempre buscando novos desafios para me fortalecer na minha área.
 
