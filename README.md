@@ -9,12 +9,12 @@
 
 👨‍💻 Estou sempre buscando novos desafios para me fortalecer na minha área.
 
-🤝 Aqui você encontra um pouco da minha experiência profissional e projetos que realizei até aqui.
+🤝 Aqui você encontra alguns projetos que realizei até aqui.
 
 
 ## CONECTE-SE COMIGO
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.https://www.linkedin.com/in/wilker-jc-pimenta//) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wilker-jc-pimenta/) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wil-JC-Pimenta)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wiljcpimenta@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://wilker-pimenta-portfolio.vercel.app/)
@@ -31,7 +31,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0)
+
 
 ## FERRAMENTAS
 
@@ -56,14 +56,12 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=Wil-JC-Pimenta&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/Wil-JC-Pimenta)
 
 ## REPOSITÓRIOS
+
 [Repositório do GitHub](https://github.com/Wil-JC-Pimenta)</s>
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=ordem-de-servico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/ordem-de-servico)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=crud-php-ajax&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/crud-php-ajax)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=UNES&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/UNES)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=filipe-eletricista&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/filipe-eletricista)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/dio-lab-open-source)
