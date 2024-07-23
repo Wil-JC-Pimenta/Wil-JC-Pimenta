@@ -59,7 +59,6 @@
 
 [Repositório do GitHub](https://github.com/Wil-JC-Pimenta)</s>
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=ordem-de-servico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/ordem-de-servico)
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Wil-JC-Pimenta&repo=crud-php-ajax&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Wil-JC-Pimenta/crud-php-ajax)
 
