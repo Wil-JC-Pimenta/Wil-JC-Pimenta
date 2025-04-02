@@ -6,27 +6,19 @@ Sou um profissional em transição de carreira, com uma trajetória que vai da m
 
 ## 🌟 Sobre Mim
 
-- 🎓 **Formação Técnica em Mecatrônica** - Escola Técnica JK (2008): Estudei lógica de programação e algoritmos, e desenvolvi um projeto em grupo para uma feira técnica: uma maquete de prédio com elevador e iluminação, controlada por uma placa eletrônica e software em **C** e **Visual Basic**, integrando hardware e software para acionar funções via computador.
+- 🎓 **Formação Técnica em Mecatrônica** - Escola Técnica JK (2008): Estudei lógica de programação e algoritmos, eletrônica digital / analógica, elétrica, mecânica, instrumentação e automação.
 - 🔧 **Carreira como Mecânico Industrial**: Especializei-me em circuitos hidráulicos e pneumáticos, trabalhei com máquinas automatizadas, instrumentação e sistemas supervisórios como **SCADA** e **PIMS**, aplicando conceitos de automação e controle.
 - 📚 **Graduação em Análise e Desenvolvimento de Sistemas** (em curso) - Universidade Católica de Brasília: Focado em desenvolvimento web e back-end, unindo minha experiência técnica ao universo da programação.
 - 💡 **Interesses**: Desenvolvimento web, back-end, automação, integração de sistemas e tecnologia.
 
 ---
 
-## 🚀 Projetos e Experiências
-
-- **[APR - Análise Preliminar de Riscos](https://github.com/Wil-JC-Pimenta/APR)**: Sistema web em **PHP** para gerenciamento de APRs, utilizando conceitos de MVC e boas práticas de segurança.
-- **[Challenge ForumHub](https://github.com/Wil-JC-Pimenta/challenge-forumhub)**: Projeto back-end em **Java** e **Spring**, parte de um desafio educacional para criar um sistema de fórum.
-- **[NheengatuX-Crypto](https://github.com/Wil-JC-Pimenta/NheengatuX-Crypto)**: Painel de criptomoedas em **TypeScript**, integrando APIs financeiras.
-- **Experiência Prática**: Durante minha carreira como mecânico, desenvolvi soluções de automação e controle, integrando hardware e software em sistemas industriais.
-
----
 
 ## 🛠️ Habilidades Técnicas
 
-- **Linguagens**: PHP, Java, JavaScript, TypeScript, C, Visual Basic
-- **Frameworks**: Spring, Node.js, Express
-- **Ferramentas**: Git, Composer, Docker, MySQL, PostgreSQL
+- **Linguagens**: Java, JavaScript, TypeScript
+- **Frameworks**: Spring, Node.js, Express, React
+- **Ferramentas**: Git, Docker, MySQL, PostgreSQL
 - **Sistemas**: Linux, Windows
 - **Outros**: HTML, CSS, Bootstrap, Markdown
 
@@ -49,11 +41,7 @@ Sou um profissional em transição de carreira, com uma trajetória que vai da m
 
 ---
 
-## 🤝 Contribuições e Colaborações
 
-Estou sempre aberto a novos desafios e oportunidades de colaboração. Se você tem um projeto interessante ou precisa de suporte em desenvolvimento web, automação ou integração de sistemas, sinta-se à vontade para me contatar!
-
----
 
 ## 🌐 Portfólio e Repositórios
 
