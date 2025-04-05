@@ -1,15 +1,40 @@
-# Olá, sou Wilker Junio Coelho Pimenta 👋
+## Sobre mim
 
-Sou um profissional em transição de carreira, com uma trajetória que vai da mecânica industrial ao desenvolvimento de software. Minha jornada começou na área técnica e evoluiu para a paixão por tecnologia, automação e desenvolvimento de sistemas. Atualmente, estou finalizando minha graduação em **Análise e Desenvolvimento de Sistemas** pela Universidade Católica de Brasília, com foco em desenvolvimento web e back-end.
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**.
+- 🌱 Aprendendo mais sobre **Desenvolvimento Fullstack e Arquitetura de Software **.
 
----
+## Minhas Skills
 
-## 🌟 Sobre Mim
+**Aplicações e Dados**
 
-- 🎓 **Formação Técnica em Mecatrônica** - Escola Técnica JK (2008): Estudei lógica de programação e algoritmos, eletrônica digital / analógica, elétrica, mecânica, instrumentação e automação.
-- 🔧 **Carreira como Mecânico Industrial**: Especializei-me em circuitos hidráulicos e pneumáticos, trabalhei com máquinas automatizadas, instrumentação e sistemas supervisórios como **SCADA** e **PIMS**, aplicando conceitos de automação e controle.
-- 📚 **Graduação em Análise e Desenvolvimento de Sistemas** (em curso) - Universidade Católica de Brasília: Focado em desenvolvimento web e back-end, unindo minha experiência técnica ao universo da programação.
-- 💡 **Interesses**: Desenvolvimento web, back-end, automação, integração de sistemas e tecnologia.
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+**Utilidades**
+
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+
+**DevOps**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Ferramentas de Desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+
+
 
 ---
 
@@ -33,8 +58,6 @@ Sou um profissional em transição de carreira, com uma trajetória que vai da m
 ---
 
 ## 📫 Conecte-se Comigo
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wil-jc-pimenta/)
 - [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wil-JC-Pimenta)
 - [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:wiljcpimenta@gmail.com)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://wilker-pimenta-portfolio.vercel.app/)
