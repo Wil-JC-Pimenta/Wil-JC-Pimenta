@@ -1,4 +1,4 @@
-# Olá, sou [Wilker]! 👋
+# Olá, sou Wilker! 👋
 
 Bem-vindo ao meu perfil no GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília** e apaixonado por tecnologia, inovação e desenvolvimento de soluções. Atualmente, foco no **Desenvolvimento Full Stack** e na construção de arquiteturas robustas e escaláveis.
 
