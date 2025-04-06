@@ -41,10 +41,10 @@ Confira alguns dos meus projetos mais relevantes:
 - **[Oracle Next Education](https://github.com/Wil-JC-Pimenta/Oracle-Next-Education)**  
   *Repositório com projetos do programa back end Java - Oracle Next Education - Alura + Oracle.*
 
-- **[Google AI Essentials(https://github.com/Wil-JC-Pimenta/GoogleAIEssentials)**  
+- **[Google AI Essentials](https://github.com/Wil-JC-Pimenta/GoogleAIEssentials)**  
   *Repositório com conteúdo e atividades do programa Google AI Essentials*
 
-- **[AnimaGic-bg-Creator](https://github.com/Wil-JC-Pimenta/animagic-bg-creator)**  
+- **[Animagic](https://github.com/Wil-JC-Pimenta/animagic-bg-creator)**  
   *Projeto para geração de backgrounds em HTML, CSS e JavaScript*
 
 Sinta-se à vontade para explorar meus repositórios e conhecer mais detalhes!
