@@ -6,8 +6,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Wil-JC-Pimenta&style=flat-square&color=blue" alt="profile views"/>
-  <a href="mailto:wiljcpimenta@example.com">
-    <img src="https://img.shields.io/badge/Email-wiljcpimenta@example.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:wiljcpimenta@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wiljcpimenta@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/wil-j-c-pimenta">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
