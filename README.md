@@ -1,7 +1,29 @@
-# Olá, sou Wilker! 👋
+<h1 align="center">👋 Olá, eu sou Wilker!</h1>
 
-Bem-vindo ao meu perfil no GitHub! Sou estudante de **Análise e Desenvolvimento de Sistemas** na **Universidade Católica de Brasília**, apaixonado por tecnologia, inovação e desenvolvimento de soluções. Atualmente, foco no **Desenvolvimento Full Stack** com atenção especial à construção de arquiteturas robustas, escaláveis e modernas.
+<p align="center">
+  Desenvolvedor Full Stack em formação | Entusiasta de Inteligência Artificial 🤖 |
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Wil-JC-Pimenta&style=flat-square&color=blue" alt="profile views"/>
+  <a href="mailto:wiljcpimenta@example.com">
+    <img src="https://img.shields.io/badge/Email-wiljcpimenta@example.com-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/wil-j-c-pimenta">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧩 Sobre mim
+
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pela **Universidade Católica de Brasília**  
+🛠️ Migrando da área técnica de instrumentação para **Tecnologia da Informação**  
+🧠 Buscando aprofundamento em **Java, Spring Boot, React, DevOps, IA e Arquitetura de Software**  
+
+
+---
 ---
 
 ## 🚀 Skills e Tecnologias
