@@ -19,7 +19,6 @@
 ## 🧩 Sobre mim
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas pela **Universidade Católica de Brasília**  
-🛠️ Migrando da área técnica de instrumentação para **Tecnologia da Informação**  
 🧠 Buscando aprofundamento em **Java, Spring Boot, React, DevOps, IA e Arquitetura de Software**  
 
 
