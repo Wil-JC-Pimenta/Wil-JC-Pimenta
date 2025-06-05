@@ -110,7 +110,7 @@
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| Google AI Essentials | Recursos e exemplos de construção de prompts no Gooogle AI Studio e Gemini| [GitHub](https://github.com/Wil-JC-Pimenta/GoogleAIEssentials) |
+| Google AI Essentials | Recursos e exemplos de construção de prompts no Google AI Studio e Gemini| [GitHub](https://github.com/Wil-JC-Pimenta/GoogleAIEssentials) |
 | Oracle Next Education | Projetos do programa Oracle Next Education T6 ONE -  Oracle + Alura - Java e SpringBoot | [GitHub](https://github.com/Wil-JC-Pimenta/Oracle-Next-Education) |
 | Wipay Backend | Backend robusto para sistema de pagamentos - Java e Spring Boot| [GitHub](https://github.com/Wil-JC-Pimenta/wipay-backend) |
 | Cod Lab | Laboratório de códigos e exercícios práticos JavaScript - TypeScript | [GitHub](https://github.com/Wil-JC-Pimenta/Cod-Lab) |
