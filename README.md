@@ -110,8 +110,8 @@
 
 | Projeto | Descrição | Link |
 |---------|-----------|------|
-| Google AI Essentials | Recursos e exemplos práticos para entender IA com Gogle APIs | [GitHub](https://github.com/Wil-JC-Pimenta/GoogleAIEssentials) |
-| Oracle Next Education | Projetos educacionais Oracle + Alura - Java e SpringBoot | [GitHub](https://github.com/Wil-JC-Pimenta/Oracle-Next-Education) |
+| Google AI Essentials | Recursos e exemplos de construção de prompts no Gooogle AI Studio e Gemini| [GitHub](https://github.com/Wil-JC-Pimenta/GoogleAIEssentials) |
+| Oracle Next Education | Projetos do programa Oracle Next Education T6 ONE -  Oracle + Alura - Java e SpringBoot | [GitHub](https://github.com/Wil-JC-Pimenta/Oracle-Next-Education) |
 | Wipay Backend | Backend robusto para sistema de pagamentos - Java e Spring Boot| [GitHub](https://github.com/Wil-JC-Pimenta/wipay-backend) |
 | Cod Lab | Laboratório de códigos e exercícios práticos JavaScript - TypeScript | [GitHub](https://github.com/Wil-JC-Pimenta/Cod-Lab) |
 | Paraíso Eco Serviços | Site institucional para empresa fictícia de soluções sustentáveis - TypeScript | [GitHub](https://github.com/Wil-JC-Pimenta/Paraiso-EcoServicos) |
