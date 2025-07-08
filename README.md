@@ -14,7 +14,7 @@ Profissional de TI com formação em **Análise e Desenvolvimento de Sistemas**,
 
 ## 📫 Contato
 
-- LinkedIn: [seu-linkedin](https://www.linkedin.com/in/wil-j-c-pimenta/)
+- LinkedIn: [in/wil-j-c-pimenta](https://www.linkedin.com/in/wil-j-c-pimenta/)
 
 ---
 💼 Em constante evolução e aberto a novas oportunidades e colaborações!
