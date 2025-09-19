@@ -6,15 +6,15 @@ Profissional de TI com formação em Análise e Desenvolvimento de Sistemas, esp
 
 ## 💡 Tecnologias e Ferramentas
 
-⚙️ Backend: Java | Spring Boot | Maven | Gradle | REST APIs | Microservices | Hibernate | JPA
+⚙️ Backend: Node.js | Express | PHP | Larvel | Java | Spring Boot | Maven | Gradle | REST APIs | Microservices | Hibernate | JPA
 
 🌐 Frontend: HTML | CSS | JavaScript | React | TypeScript | Redux | Next.js | Tailwind CSS
 
-🗃️ Bancos de Dados: MySQL | PostgreSQL | MongoDB | Redis
+🗃️ Bancos de Dados: MySQL | PostgreSQL | SQLite MongoDB | Redis
 
-📦 Versionamento e DevOps: Git | GitHub | Docker | CI/CD (GitHub Actions / Jenkins) | Kubernetes | AWS | Azure
+📦 Versionamento e DevOps: Git | GitHub | Docker | CI/CD (GitHub Actions / Jenkins) | AWS 
 
-🧪 Testes: JUnit | Mockito | Selenium | Cypress
+🧪 Testes: Jest | phpUnit |JUnit | Mockito | Selenium | Cypress
 
 🛠️ Outros: Swagger | Postman | API Design | Clean Code | SOLID | DDD
 ## 📫 Contato
