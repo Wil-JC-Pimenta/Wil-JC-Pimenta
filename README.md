@@ -28,9 +28,6 @@ Tenho experiência no desenvolvimento de aplicações **escaláveis**, utilizand
 - **Infraestrutura:** Docker, Git, Linux  
 - **Automação:** Python, Shell Script e Bash  
 
-Também possuo base sólida adquirida na mecatrônica: C, C#, VBA, lógica digital, eletrônica, microcontroladores, PLC, SCADA, PIMS e IHM — o que reforçou meu entendimento de algoritmos, arquitetura e sistemas de forma profunda.
-
-> **Meu diferencial:** consigo unir a precisão da engenharia com a fluidez do desenvolvimento de software, criando soluções estruturadas e eficientes.
 
 ---
 
