@@ -41,7 +41,7 @@ Tenho experiência no desenvolvimento de aplicações **escaláveis**, utilizand
 | **[ElizaSOC](https://github.com/Wil-JC-Pimenta/ElizaSOC)** | Sistema completo de monitoramento, detecção e resposta automatizada a ameaças de segurança. | Python | Clean Architecture, SOLID, TDD, Segurança da Informação. | Em Desenvolvimento |
 | **[wivipay-backend](https://github.com/Wil-JC-Pimenta/wivipay-backend)** | Backend de um sistema de aplicação de pagamentos. | Java, Spring Boot | RESTful API Design, Testes Unitários (JUnit/Mockito), Persistência de Dados. | Em Desenvolvimento |
 | **[wpx\_firewall](https://github.com/Wil-JC-Pimenta/wpx_firewall)** | Firewall de rede baseado em Python com interface interativa para monitoramento e bloqueio de IP em tempo real. | Python | Network Programming, Segurança de Redes, Interface de Linha de Comando (CLI). | Concluído |
-| **[monitor-rio](https://github.com/Wil-JC-Pimenta/monitor-rio)** | Projeto de monitoramento do nível do rio Piracicaba. | PHP | Laravel | Concluído | Visualização de Dados, Integração com Sensores/APIs. | Concluído |
+| **[monitor-rio](https://github.com/Wil-JC-Pimenta/monitor-rio)** | Projeto de monitoramento do nível do rio Piracicaba. | PHP | Laravel, Consumo de API's, WebSockets, Dados Hidrológicos | Concluído |
 
 ##  Stack Tecnológica
 ### Backend — Foco Principal: Java / Spring Boot
