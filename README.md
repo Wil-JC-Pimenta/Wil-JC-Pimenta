@@ -1,90 +1,62 @@
-# Olá, eu sou o Wilker
-
-**Desenvolvedor Full Stack | Java | Spring Boot | React | Node.js**
+<h1 align="left">Wilker</h1>
+<p align="left"><strong>Desenvolvedor Full Stack — Java · Spring Boot · React · Node.js</strong></p>
 
 <p align="left">
   <a href="https://github.com/wilkernel">
-    <img src="https://img.shields.io/github/followers/wilkernel?style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/wilkernel?style=flat-square">
   </a>
   <a href="https://linkedin.com/in/wil-j-c-pimenta">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-22c55e?style=for-the-badge">
+  <img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=flat-square">
 </p>
 
 ---
 
-## Sobre mim
+## Perfil
 
-Sou formado em **Análise e Desenvolvimento de Sistemas** e desenvolvedor Full Stack com foco no desenvolvimento de aplicações utilizando **Java, Spring Boot, React e Node.js**.
+Desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com atuação no ciclo completo de desenvolvimento de software: modelagem de domínio, construção de APIs REST, integração de sistemas, autenticação e autorização, conteinerização e entrega contínua.
 
-Tenho experiência no desenvolvimento de APIs REST, integração com bancos de dados, autenticação com Keycloak, conteinerização com Docker e versionamento com Git, aplicando boas práticas como SOLID e Clean Architecture.
-
----
-
-## Tecnologias
-
-### Back-end
-
-- Java
-- Spring Boot
-- Node.js
-- Hibernate
-- JPA
-
-### Front-end
-
-- React
-- TypeScript
-- JavaScript
-- HTML
-- CSS
-- Tailwind CSS
-
-### Banco de Dados
-
-- PostgreSQL
-- MySQL
-- SQLite
-
-### Ferramentas
-
-- Git
-- Docker
-- Maven
-- Keycloak
-- GitHub Actions
+Aplico princípios de SOLID e Clean Architecture na organização de código e camadas, priorizando manutenibilidade, testabilidade e baixo acoplamento entre componentes.
 
 ---
 
-## Principais Projetos
+## Stack técnica
+
+| Camada | Tecnologias |
+|---|---|
+| Back-end | Java, Spring Boot, Node.js, Hibernate, JPA |
+| Front-end | React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS |
+| Persistência | PostgreSQL, MySQL, SQLite |
+| Infraestrutura e ferramentas | Docker, Maven, Git, GitHub Actions, Keycloak |
+
+**Práticas aplicadas:** design de APIs REST, autenticação/autorização com Keycloak, conteinerização com Docker, integração contínua com GitHub Actions, versionamento com Git, princípios SOLID e Clean Architecture.
+
+---
+
+## Projetos
 
 ### WiviPay
+Gateway de pagamento.
 
-Gateway de pagamento desenvolvido com Java e Spring Boot.
-
-**Tecnologias:** Java, Spring Boot, PostgreSQL, Docker e Keycloak.
+- **Stack:** Java, Spring Boot, PostgreSQL, Docker, Keycloak
+- **Escopo:** processamento de transações, autenticação de acesso e persistência de dados financeiros em ambiente conteinerizado.
 
 ### Monitor Rio
+Sistema de monitoramento de níveis de rios com integração de APIs externas.
 
-Sistema para monitoramento de rios com integração de APIs, desenvolvido utilizando Laravel e React.
+- **Stack:** Laravel, React
+- **Escopo:** coleta e exibição de dados de monitoramento em interface web.
 
 ### ElizaSOC
+Plataforma de monitoramento de eventos de segurança.
 
-Plataforma para monitoramento de eventos de segurança, análise de ameaças e visualização em tempo real.
-
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=wilkernel&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilkernel&layout=compact&theme=tokyonight"/>
-</p>
+- **Escopo:** análise de ameaças e visualização de eventos em tempo real.
 
 ---
+
 
 ## Contato
 
-- GitHub: https://github.com/wilkernel
-- LinkedIn: https://linkedin.com/in/wil-j-c-pimenta
+- GitHub: [github.com/wilkernel](https://github.com/wilkernel)
+- LinkedIn: [linkedin.com/in/wilkernel](https://linkedin.com/in/wilkernel)
